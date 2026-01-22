@@ -1,0 +1,9 @@
+{
+  "repoName": "xfg-test",
+  "repoOwner": "anthony-spruyt",
+  "repoFullName": "anthony-spruyt/xfg-test",
+  "platform": "github",
+  "custom": "custom-value",
+  "escaped": "${xfg:repo.name}",
+  "static": "not-interpolated"
+}

@@ -1,8 +1,4 @@
 {
   "version": 2,
-  "configs": {
-    "integration-test-delete-orphaned-github": [
-      "orphan-test.json"
-    ]
-  }
+  "configs": {}
 }

@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "configs": {
-    "integration-test-github-app-delete": [
-      "github-app-remaining.json"
-    ]
-  }
-}

@@ -1,1 +1,11 @@
-{"version":2,"configs":{"integration-test-action-github":["action-test.json"]}}
+{
+  "version": 3,
+  "configs": {
+    "integration-test-action-github": {
+      "files": [
+        "action-test-2.yaml",
+        "action-test.json"
+      ]
+    }
+  }
+}

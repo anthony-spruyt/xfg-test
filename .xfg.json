@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "configs": {
+    "integration-test-delete-orphaned-github": {
+      "files": [
+        "orphan-test.json"
+      ]
+    }
+  }
+}
